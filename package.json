@@ -18,5 +18,8 @@
     "moment": "^2.10.5",
     "request-rate-limiter": "^0.2.1",
     "xtend": "^4.0.0"
+  },
+  "devDependencies": {
+    "dotenv": "^1.2.0"
   }
 }
