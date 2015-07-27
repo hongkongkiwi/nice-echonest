@@ -1,0 +1,22 @@
+{
+  "name": "nice-echonest",
+  "version": "0.0.1",
+  "description": "An echonest module that nicely handles all the echo nest API methods for API. It including rate limiting and some nice handling of results.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keyworks": [
+    "echonest",
+    "echo",
+    "nest",
+    "spotify"
+  ],
+  "author": "Andy Savage <andy@savage.hk> (http://andy.savage.hk/)",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.10.5",
+    "request-rate-limiter": "^0.2.1",
+    "xtend": "^4.0.0"
+  }
+}
